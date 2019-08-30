@@ -8,3 +8,7 @@ documentation using OpenAPI (Swagger) and ReDoc.
 
 The Dockerfile is included if you would like to containerize the application
 and deploy it on the cloud. 
+
+
+
+https://towardsdatascience.com/how-to-deploy-a-machine-learning-model-dc51200fe8cf
